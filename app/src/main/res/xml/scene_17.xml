@@ -31,7 +31,7 @@
             <Constraint
                 android:id="@id/motionLayout"
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
+                android:layout_height="wrap_content"
                 motion:layout_constraintTop_toTopOf="parent" />
 
             <Constraint
@@ -54,7 +54,7 @@
             <Constraint
                 android:id="@+id/motionLayout"
                 android:layout_width="match_parent"
-                android:layout_height="56dp"
+                android:layout_height="22dp"
                 motion:layout_constraintTop_toTopOf="parent"
                 motion:progress="1" />
 
