@@ -42,7 +42,7 @@
                 motion:layout_constraintTop_toBottomOf="@+id/motionLayout" />
 
             <Constraint
-                android:id="@id/background"
+                android:id="@id/imMovie"
                 android:layout_width="400dp"
                 android:layout_height="200dp"
                 motion:layout_constraintTop_toTopOf="parent" />
@@ -59,7 +59,7 @@
                 motion:progress="1" />
 
             <Constraint
-                android:id="@id/background"
+                android:id="@id/imMovie"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 motion:layout_constraintTop_toTopOf="parent" />
